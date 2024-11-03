@@ -20,6 +20,9 @@ public class Class01 {
 		
 		// This is for commit 1 for squash
 		
+		
+		// this is for commit 2 for squash
+		
 	}
 
 }
