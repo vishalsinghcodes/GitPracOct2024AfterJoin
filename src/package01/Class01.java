@@ -13,7 +13,12 @@ public class Class01 {
 		
 		// this is user 2 commiting in develop branch
 		
+		// This is some line which I have written
 		
+		
+		// This is some chage which I want to reset
+		
+		// This is for commit 1 for squash
 		
 	}
 
