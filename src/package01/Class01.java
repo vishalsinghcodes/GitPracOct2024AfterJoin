@@ -23,6 +23,10 @@ public class Class01 {
 		
 		// this is for commit 2 for squash
 		
+		//kjdsfhjksdhfajsdh
+		
+		//dsdnhndsklsdnfkln
+		
 	}
 
 }
